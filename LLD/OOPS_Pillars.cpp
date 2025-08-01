@@ -1,0 +1,7 @@
+/*
+Abstracttion 
+Encapsulation
+Inheritence
+Polymorphism
+*/
+
